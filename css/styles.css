@@ -1,0 +1,117 @@
+h1 {
+  color: #1089ff;
+  text-align: center;
+  font-family: Orbitron;
+  font-size: 2.75rem;
+}
+
+h2 {
+  color: #1089ff;
+  font-family: Orbitron;
+  text-align: center;
+}
+
+a {
+  color: #1089ff;
+  text-decoration: none;
+}
+
+a:hover img {
+  display: block;
+}
+
+footer {
+  color: #1089ff;
+  font-size: .7rem;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+  left: 14%;
+}
+
+.front-page {
+  background-image: url(https://wallpaperaccess.com/full/897523.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Orbitron;
+}
+
+.league-page {
+  background-image: url(https://lh3.googleusercontent.com/proxy/VdZD8h7F4bAksSIP71zCUyDJJvIRvoFY3PmlNCmjwZ2y3CKaZtF15xq7Qptje_IGqo92IqOFlqEWg5lFODckgG6__4zjUZEVvlP6q5lSO1uvXRWLy2_mS4mV);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #1089ff;
+  font-family: Orbitron;
+}
+
+.player-page {
+  color: #1089ff;
+  background-color: #000;
+  font-family: Orbitron;
+  line-height: 2;
+}
+
+.highlights-page {
+  color: #1089ff;
+  background-color: #000;
+  font-family: Orbitron;
+  text-align: center;
+}
+
+.players {
+  position: absolute;
+  bottom: 7%;
+  left: 45%;
+  text-align: center;
+}
+
+.league {
+  position: absolute;
+  bottom: 7%;
+  left: 5%;
+}
+
+.highlights {
+  position: absolute;
+  bottom: 7%;
+  right: 5%;
+}
+
+.combatants {
+  text-align: left;
+  text-decoration: underline;
+  margin-top: 100px;
+}
+
+.player {
+  margin: 100px auto;
+}
+
+.masterchief {
+  display: none;
+}
+
+.start {
+  background-color: #000;
+  border: 5px solid;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  line-height: 2;
+  padding: 20px;
+}
+
+.video-header {
+  line-height: 2;
+  margin: 100px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.vid {
+  margin-bottom: 100px;
+}
